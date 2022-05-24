@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "7cWUnz8S3OggxDQomkam8g",
-    "name" : "mt_CICD_test_mapping_17",
+    "id" : "3PVAnIGh5yIbcK6yVbEsyM",
+    "name" : "mt_CICD_test_mapping_37a",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01C2QD0Z00000000000J"
+        "repoHandle" : "01C2QD0Z000000000018"
       },
       "contextAttributes" : [ {
         "name" : "id",
