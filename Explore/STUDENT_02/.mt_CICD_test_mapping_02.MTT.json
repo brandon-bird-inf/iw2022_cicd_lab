@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "This is for CICD TESTIG-May092023",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
