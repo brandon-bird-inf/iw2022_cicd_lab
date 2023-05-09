@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "This is a test message",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
