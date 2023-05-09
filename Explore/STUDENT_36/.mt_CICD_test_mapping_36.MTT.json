@@ -45,7 +45,7 @@
     "path" : "/Explore/Default"
   }, {
     "id" : "bUm9aj7vhAdlOXGPZSuqyE",
-    "name" : "ip-172-31-33-183.us-west-2.compute.internal",
+    "name" : "CICD",
     "type" : "AgentGroup",
     "metadata" : {
       "modelVersion" : {
